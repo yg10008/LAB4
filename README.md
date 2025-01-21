@@ -1,7 +1,9 @@
 
 # Project: File Organizer Tool
 
-# Objective: Build a CLI tool to organize files into folders based on their type (e.g., images, documents, videos).
+=> Objective: Build a CLI tool to organize files into folders based on their type (e.g., images, documents, videos).
+   
+   
    -> Tasks:
         - Accept a directory path as an input from the user.
         - Use the fs module to read all files in the directory.
