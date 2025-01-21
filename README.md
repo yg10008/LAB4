@@ -5,6 +5,7 @@
    
    
    -> Tasks:
+   
         - Accept a directory path as an input from the user.
         - Use the fs module to read all files in the directory.
         - Move files into folders like Images, Documents, and Others based on their extensions.
